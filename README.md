@@ -34,7 +34,5 @@ As show above the project is divided in many modules, I will try below to explai
 
 - Score: This module handles the logic of calculating number of lives for the player and display the score in the 7-segment displays.
 
-<p align="center">
-  <video src="imgs/WhatsApp Video 2019-04-24 at 10.46.09.mp4" title="video_proof>
-</p>
+To see how it works, you can refer to the video in img file: BreakOutGame_with_VHDL/imgs/WhatsApp Video 2019-04-24 at 10.46.09.mp4
 
